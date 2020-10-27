@@ -1,0 +1,20 @@
+{
+    "Author": "cmendibl3",
+    "ContentSize": 2006,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-or-start-all-webapps-(websites)-in-your-subscription/master/Stop-Start-All-WebApps.ps1",
+    "DownloadCount": 3285,
+    "Id": "Stop-or-Start-all-WebApps-9533dda6",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 159,
+    "RaterCount": 5,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-6-2T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Stop-Start-All-WebApps: is a simple PowerShell workflow runbook that will help you automate the process of stopping or starting every single WebApp (Website) in your subscription.The Stop-Start-All-WebApps receives two required (mandatory) parameters: Stop and CredentialAssetName",
+    "Title": "Stop or Start all WebApps (Websites) in your subscription",
+    "UpdatedDate": "2016-6-2T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-or-start-all-webapps-(websites)-in-your-subscription",
+    "UserTags": "website, Runbook, PowerShell Workflow"
+}
